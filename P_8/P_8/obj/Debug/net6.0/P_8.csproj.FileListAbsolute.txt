@@ -1,0 +1,14 @@
+C:\Users\fatim\source\repos\P_8\P_8\bin\Debug\net6.0\P_8.exe
+C:\Users\fatim\source\repos\P_8\P_8\bin\Debug\net6.0\P_8.deps.json
+C:\Users\fatim\source\repos\P_8\P_8\bin\Debug\net6.0\P_8.runtimeconfig.json
+C:\Users\fatim\source\repos\P_8\P_8\bin\Debug\net6.0\P_8.dll
+C:\Users\fatim\source\repos\P_8\P_8\bin\Debug\net6.0\P_8.pdb
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\P_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\P_8.AssemblyInfoInputs.cache
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\P_8.AssemblyInfo.cs
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\P_8.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\P_8.dll
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\refint\P_8.dll
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\P_8.pdb
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\P_8.genruntimeconfig.cache
+C:\Users\fatim\source\repos\P_8\P_8\obj\Debug\net6.0\ref\P_8.dll
