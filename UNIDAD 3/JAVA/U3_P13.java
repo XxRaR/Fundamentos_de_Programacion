@@ -12,22 +12,18 @@ public class U3_P13 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-          int c, num, CP=0, CN=0;//2
+          int c,num;//2
         
         for (c=1; c<=100; c++){ //5
             System.out.print("Ingresa un numero entero: ");
             num = sc.nextInt();
             
            if (num >= 0) //5c
-               CP++;
-               
+               System.out.println("EL NUMERO " + num + " ES Positivo");
            else 
-               CN++;
+               System.out.println("El numero" + num + " Es negativo");
            
         
         }
-           System.out.println("La cantidad de numeros positivos es: " + CP );
-           System.out.println("La cantidad de numeros positivos es: " + CN );
-
     }
 }
