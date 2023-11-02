@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
+//Conte el codigo como si el salario hubiese sido anual
 package com.mycompany.u3_p18;
 
 /**
