@@ -15,7 +15,7 @@ public class U3_P18 {
         int años=6;
         for (i=1; i<=años && años>0; i++){
         S = (S*I) + S;
-        System.out.println("El salario anual" + i + " es de: $" + S);        
+        System.out.println("El salario anual " + i + " es de: $" + S);        
         s=s+S;    
     }
         System.out.println("El salario a los 6 años es: $" + s);
