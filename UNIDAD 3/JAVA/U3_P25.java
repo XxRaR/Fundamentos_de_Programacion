@@ -36,17 +36,17 @@ public class U3_P25 {
 
             switch (operador) {
                 case "+":
-                    resultado = n1 + resultado;
+                    resultado = resultado + n1 ;
                     break;
                 case "-":
-                    resultado = n1 - resultado;
+                    resultado = resultado - n1;
                     break;
                 case "*":
-                    resultado = n1 * resultado;
+                    resultado = resultado * n1 ;
                     break;
                 case "/":
                     if (n1 != 0) {
-                        resultado = n1 / resultado;
+                        resultado = resultado / n1 ;
                     } else {
                         System.out.println("Error!! No se puede dividir entre cero.");
                         continue;
