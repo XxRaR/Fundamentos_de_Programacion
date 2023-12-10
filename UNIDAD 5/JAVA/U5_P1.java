@@ -31,8 +31,8 @@ public class U5_P1 {
         int m = a * b;
         return m;
     }
-    public static int division(int a, int b){
-        int d  = a / b;
+    public static double division(double a, int b){
+        double d  = a / b;
         return d;
     }
 }
